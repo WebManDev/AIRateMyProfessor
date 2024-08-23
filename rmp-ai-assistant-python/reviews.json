@@ -1,0 +1,185 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Carter is an excellent professor who explains complex concepts clearly. Her lectures are engaging and she is always willing to help students."
+      },
+      {
+        "professor": "Dr. Robert Jones",
+        "subject": "Psychology",
+        "stars": 4,
+        "review": "Dr. Jones is knowledgeable and passionate about psychology. His exams are tough but fair. Highly recommended if you're willing to put in the work."
+      },
+      {
+        "professor": "Dr. Lisa Patel",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Dr. Patel is good at teaching but her assignments can be overwhelming. She is approachable during office hours, which is a plus."
+      },
+      {
+        "professor": "Dr. William Green",
+        "subject": "History",
+        "stars": 2,
+        "review": "Dr. Green's lectures are a bit dull and his grading is strict. Not the best option if you're looking for an easy class."
+      },
+      {
+        "professor": "Dr. Sarah Kim",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Kim is very patient and thorough in her teaching. The labs are challenging, but she provides good guidance."
+      },
+      {
+        "professor": "Dr. Mark Thompson",
+        "subject": "Economics",
+        "stars": 5,
+        "review": "Dr. Thompson is a great professor who makes economics interesting and relatable. His problem sets are challenging but helpful."
+      },
+      {
+        "professor": "Dr. Maria Lopez",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Dr. Lopez is a good professor with a deep understanding of the subject. Her classes can be tough, but she prepares you well for exams."
+      },
+      {
+        "professor": "Dr. James Anderson",
+        "subject": "English Literature",
+        "stars": 3,
+        "review": "Dr. Anderson's classes are insightful, but his grading is quite harsh. Be prepared to write a lot of essays."
+      },
+      {
+        "professor": "Dr. Angela Brown",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. Brown is an amazing professor who challenges you to think critically. Her classes are engaging and thought-provoking."
+      },
+      {
+        "professor": "Dr. Richard Lee",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Lee is very knowledgeable and passionate about biology. His labs are well-organized, and he explains the material clearly."
+      },
+      {
+        "professor": "Dr. Katherine Nguyen",
+        "subject": "Sociology",
+        "stars": 3,
+        "review": "Dr. Nguyen is a good professor, but her lectures can be a bit dry at times. However, she is very supportive during office hours."
+      },
+      {
+        "professor": "Dr. John Davis",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Dr. Davis's lectures are often boring and unorganized. The exams are tough and don't always reflect the material covered in class."
+      },
+      {
+        "professor": "Dr. Ashley Martinez",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Martinez is a fantastic professor who brings anthropology to life. Her classes are interactive and insightful."
+      },
+      {
+        "professor": "Dr. Charles Wilson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Wilson is a solid professor who explains concepts clearly. His exams are fair, but the problem sets can be challenging."
+      },
+      {
+        "professor": "Dr. Jennifer Taylor",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Taylor is an inspiring professor who makes art history fascinating. Her passion for the subject is contagious."
+      },
+      {
+        "professor": "Dr. Thomas White",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. White is knowledgeable but his lectures can be hard to follow at times. The lab work is intense, but manageable with effort."
+      },
+      {
+        "professor": "Dr. Olivia Evans",
+        "subject": "Linguistics",
+        "stars": 4,
+        "review": "Dr. Evans is a great professor who makes linguistics interesting and accessible. Her exams are fair and reflect the material well."
+      },
+      {
+        "professor": "Dr. Michael Hernandez",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Hernandez is an okay professor. His lectures can be a bit monotone, but he is helpful during office hours."
+      },
+      {
+        "professor": "Dr. Elizabeth King",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Dr. King is an exceptional professor who encourages deep thinking and open discussion. Her classes are challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Steven Clark",
+        "subject": "History",
+        "stars": 4,
+        "review": "Dr. Clark is a knowledgeable professor who makes history engaging. His exams are tough but fair, and he is very approachable."
+      },
+      {
+        "professor": "Dr. Jessica Lewis",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Lewis is a decent professor, but her lectures can be a bit repetitive. The material is interesting, but the delivery could be better."
+      },
+      {
+        "professor": "Dr. David Hall",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Dr. Hall's lectures are often confusing and hard to follow. The exams are difficult, and the grading is strict."
+      },
+      {
+        "professor": "Dr. Rachel Scott",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Scott is a good professor who is very passionate about sociology. Her lectures are interesting, and she is very supportive of her students."
+      },
+      {
+        "professor": "Dr. Brian Young",
+        "subject": "Political Science",
+        "stars": 5,
+        "review": "Dr. Young is an outstanding professor who makes political science exciting. His classes are well-structured, and he is always willing to help."
+      },
+      {
+        "professor": "Dr. Laura Adams",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Dr. Adams is a great professor who explains math concepts clearly. Her problem sets are challenging, but they help you understand the material better."
+      },
+      {
+        "professor": "Dr. Kevin Robinson",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Robinson is an excellent professor who makes complex topics accessible. His lectures are clear, and he provides plenty of support outside of class."
+      },
+      {
+        "professor": "Dr. Michelle Perez",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Perez is knowledgeable but her lectures can be a bit dry. The exams are fair, but the labs are challenging."
+      },
+      {
+        "professor": "Dr. Daniel Walker",
+        "subject": "Chemistry",
+        "stars": 2,
+        "review": "Dr. Walker's lectures are difficult to follow and his exams are very challenging. The grading is strict, and he is not very approachable."
+      },
+      {
+        "professor": "Dr. Sophia Brown",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Brown is a wonderful professor who makes anthropology fascinating. Her classes are engaging, and she is very supportive of her students."
+      },
+      {
+        "professor": "Dr. Paul Allen",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Allen is a good professor who explains physics concepts well. His problem sets are challenging, but they prepare you well for the exams."
+      }
+    ]
+  }
+  
