@@ -55,7 +55,11 @@ export default function Home() {
       flexDirection="column"
       justifyContent="center"
       alignItems="center"
-    >
+      sx={{
+        backgroundImage: 'radial-gradient(circle, black, purple)',
+      }}
+    
+      >
       <Stack
         direction={'column'}
         width="500px"
@@ -63,6 +67,8 @@ export default function Home() {
         border="1px solid black"
         p={2}
         spacing={3}
+        sx={{borderRadius:10}}
+
       >
         <Stack
           direction={'column'}
@@ -70,6 +76,7 @@ export default function Home() {
           flexGrow={1}
           overflow="auto"
           maxHeight="100%"
+          
         >
           {messages.map((message, index) => (
             <Box
@@ -88,6 +95,15 @@ export default function Home() {
                 color="white"
                 borderRadius={16}
                 p={3}
+                sx={{
+                  transition: 'background-color 0.3s',  // Smooth transition for hover
+                  '&:hover': {
+                    backgroundColor: message.role === 'assistant'
+                      ? 'primary.light'  // Lighter color on hover for assistant messages
+                      : 'secondary.light', 
+                      color: 'white', // Lighter color on hover for user messages
+                  },
+                }}
               >
                 {message.content}
               </Box>
@@ -100,6 +116,18 @@ export default function Home() {
             fullWidth
             value={message}
             onChange={(e) => setMessage(e.target.value)}
+            sx={{
+              '& .MuiInputBase-input': {
+                color: 'white', 
+              },
+              '& .MuiInputBase-input:hover': {
+                color: 'white', 
+              },
+              '& .MuiInputBase-root': {
+                transition: 'background-color 0.3s, color 0.3s', 
+                
+              },
+            }}
           />
           <Button variant="contained" onClick={sendMessage}>
             Send
